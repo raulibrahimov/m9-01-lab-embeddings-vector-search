@@ -32,7 +32,9 @@ Embeddings come from Gemini's `gemini-embedding-001`. The local fallback is `sen
 
 ## Your Task
 
-Work in a notebook or a script (`search_by_hand.ipynb` or `.py`). The corpus is in `knowledge_base.json` — a list of passages, each with an `id`, `source`, and `text`.
+The corpus is in `knowledge_base.json` — a list of passages, each with an `id`, `source`, and `text`.
+
+> **No starter code — you build it from scratch.** There's no template notebook or script in this repo; create your own working file(s) and write the code yourself. This close to the end of the bootcamp, scaffolding your own project is part of the exercise.
 
 **Build a meaning-based search, computing the similarity yourself.**
 
